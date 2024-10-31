@@ -39,6 +39,3 @@ stages:
     deps:
     - reports/run_info.json
     - src/model/model_reg.py
-    
-
- 
